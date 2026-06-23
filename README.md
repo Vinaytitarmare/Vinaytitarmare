@@ -145,10 +145,10 @@ const vinay = {
 
 <div align="center">
 
-### "First, solve the problem. Then, write the code." – John Johnson
+
 
 ⭐️ [Vinaytitarmare](https://github.com/Vinaytitarmare)
 
-*8.1 CGPA · GCOEN, Nagpur · B.Sc. CS 2023–2027*
+*8.1 CGPA · GCOEN, Nagpur *
 
 </div>
