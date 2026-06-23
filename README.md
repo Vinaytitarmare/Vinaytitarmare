@@ -95,9 +95,7 @@ A bookmarking app that unifies saved links across browser extension and mobile s
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaytitarmare&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
-### **Activity Graph**
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinaytitarmare&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Vinaytitarmare)
 
 </div>
 
