@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a 3rd-year Computer Science student at **Government College of Engineering, Nagpur** — building full-stack products, AI-powered tools, and winning hackathons along the way.
+I'm a 4th-year Computer Science student at **Government College of Engineering, Nagpur** — building full-stack products, AI-powered tools, and winning hackathons along the way.
 
 - 🧠 Specializing in **React, Next.js, Node.js, and AI/RAG pipelines** for real-world product development.
 - 🔌 Building **browser extensions** and **cross-platform apps** that solve genuine pain points.
